@@ -1,0 +1,6 @@
+[submodule "trunk"]
+	path = trunk
+	url = https://github.com/Deesha08/MEAN-STACK.git
+[submodule "installer"]
+	path = installer
+	url = https://github.com/Deesha08/Mean-stack-UI.git
